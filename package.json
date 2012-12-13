@@ -1,0 +1,11 @@
+{
+  "name": "logfile",
+  "version": "0.1.2",
+  "bin": {
+    "logfile": "./index.js"
+  },
+  "dependencies": {
+    "optimist":"~0.3.5",
+    "stamp-stream":"~0.1.0"
+  }
+}
